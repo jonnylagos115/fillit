@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -Werror -o fillit -I./libft_1/includes -L./libft_1 -lft helper_functions.c helper_functions2.c
